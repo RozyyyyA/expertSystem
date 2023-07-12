@@ -13,8 +13,8 @@ Sistem pakar ini sangat berguna bagi individu yang mencurigai adanya masalah kes
 <div align="center">
 
 ### Diagnosa
-![Dashboard](https://github.com/ariqhwari/expertSystem/blob/main/assets/images/dashboard/diagnosa.png)
+![Dashboard](https://github.com/rozyyyya/expertSystem/blob/main/assets/images/dashboard/diagnosa.png)
 ### Hasil
-![Dashboard](https://github.com/ariqhwari/expertSystem/blob/main/assets/images/dashboard/hasil.png)
+![Dashboard](https://github.com/rozyyyya/expertSystem/blob/main/assets/images/dashboard/hasil.png)
 
 </div>
